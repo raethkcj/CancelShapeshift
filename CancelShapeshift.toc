@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: CancelShapeshift
+## Version: 1.0
+## Notes: UI Enhancements
+## Author: Raethkcj/Daytrip
+
+CancelShapeshift.xml
