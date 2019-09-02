@@ -3,5 +3,6 @@
 ## Version: 1.0
 ## Notes: UI Enhancements
 ## Author: Raethkcj/Daytrip
+## SavedVariables: CANCELSHAPESHIFT_CONFIG
 
 CancelShapeshift.xml
