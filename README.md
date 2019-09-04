@@ -1,7 +1,5 @@
 # CancelShapeshift
 
-## Note: Rememb
-
 A WoW Classic Addon to automatically cancel Druid forms and Shaman Ghost Wolf when talking to NPCs or using items.
 
 When in any form, just talk to an NPC or use an item twice. First click: cancels form. Second click: Talks to NPC/Uses item.
