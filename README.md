@@ -1,8 +1,8 @@
 # CancelShapeshift
 
-A WoW Classic Addon to automatically cancel Druid forms and Shaman Ghost Wolf.
+A WoW Classic Addon to automatically cancel Shaman Ghost Wolf.
 
-When in any form, just:
+When in Ghost Wolf form, just:
 * Talk to an NPC
 * Use an item
 * Use an ability (disabled by default, see options to enable)
